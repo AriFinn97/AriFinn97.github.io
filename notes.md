@@ -6,3 +6,6 @@ _config.yml
 1.theme: jekyll-theme-cayman
 2. title:
 3. show_downloads: false
+
+## GitHub Flavored Markdown Spec
+https://github.github.com/gfm/
