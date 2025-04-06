@@ -8,7 +8,7 @@ now im back for 2nd semester python!!
 
 [PS i love my boyhood team tottenham hotspur](https://www.bbc.com/sport/football/teams/tottenham-hotspur)
 
-[hi](/_config.yml)
+[](./_config.yml)
 
 
 
