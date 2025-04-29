@@ -8,7 +8,7 @@ now im back for 2nd semester python!!
 
 [PS i love my boyhood team tottenham hotspur](https://www.bbc.com/sport/football/teams/tottenham-hotspur)
 
-[to my git hub]([./(https://github.com/AriFinn97))
+[to my git hub]([(https://github.com/AriFinn97))
 
 
 
