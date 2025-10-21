@@ -1,6 +1,5 @@
 ---
-layout: structure_of_site
-title: Home
+
 ---
 
 Welcome to my site!  
